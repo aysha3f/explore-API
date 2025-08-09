@@ -26,4 +26,5 @@ const postContainer = document.getElementById('posts-container');
 }
 }
 
-loadPosts()
+loadPosts();
+
